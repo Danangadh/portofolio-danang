@@ -70,6 +70,8 @@ export default function About() {
          <a href="https://github.com/DanangAdh" className="hover:text-blue-300 transition">
           github
         </a>
+        <span>|</span>
+        <span>danangadehidayat42@gmail.com</span>
        
       </motion.div>
     </section>
