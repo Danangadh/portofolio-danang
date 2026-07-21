@@ -3,15 +3,12 @@
 import { motion } from "framer-motion";
 
 const techs = [
-  "Docker",
-  "Kubernetes",
-  "PostgreSQL",
-  "Go",
+  "HTML",
+  "Javascript",
+  "Java",
+  "Tailwind CSS",
   "Next.js",
-  "GraphQL",
-  "Terraform",
-  "Redis",
-  "React",
+  "Figma",
 ];
 
 export default function TechStack() {
