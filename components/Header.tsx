@@ -67,7 +67,7 @@ export default function Header() {
               </a>
             ))}
             <a
-              href="#https://wa.me/6281368250239"
+              href="https://wa.me/6281368250239"
               className="bg-blue-600 text-white px-4 py-2 rounded-full text-sm font-medium text-center hover:bg-blue-500 transition"
               onClick={() => setIsOpen(false)}
             >
