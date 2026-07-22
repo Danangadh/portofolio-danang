@@ -3,8 +3,9 @@ import Hero from "@/components/Hero";
 import TechStack from "@/components/TechStack";
 import About from "@/components/About";
 import Skills from "@/components/Skills";
-import Experience from "@/components/Experience"; // ← import baru
+import Experience from "@/components/Experience";
 import Projects from "@/components/Projects";
+import Contact from "@/components/Contact";   // ← import
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -15,8 +16,9 @@ export default function Home() {
       <TechStack />
       <About />
       <Skills />
-      <Experience />    {/* ← tambahkan di sini */}
+      <Experience />
       <Projects />
+      <Contact />      {/* ← tambahkan di sini */}
       <Footer />
     </main>
   );

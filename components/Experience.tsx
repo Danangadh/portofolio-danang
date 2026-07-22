@@ -67,7 +67,7 @@ export default function Experience() {
         viewport={{ once: true }}
         className="mb-12"
       >
-        <span className="text-sm font-medium text-blue-400">04 / Pengalaman</span>
+        <span className="text-sm font-medium text-blue-400">03 / Pengalaman</span>
         <h2 className="text-3xl sm:text-4xl font-bold text-white mt-2 glow-text">
           Pengalaman Organisasi
         </h2>
