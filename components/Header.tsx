@@ -4,7 +4,7 @@ import { Menu, X } from "lucide-react";
 import { useState } from "react";
 import { motion } from "framer-motion";
 
-const navItems = ["Tentang", "Keahlian", "Proyek", "Kontak"];
+const navItems = ["Tentang", "Keahlian", "Pengalaman", "Proyek", "Kontak"];
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
