@@ -20,7 +20,7 @@ export default function About() {
         className="grid md:grid-cols-2 gap-16 items-start"
       >
         <div>
-          <span className="text-sm font-medium text-blue-400">01 / Tentang</span>
+          <span className="text-sm font-medium text-blue-400"></span>
           <h2 className="text-3xl sm:text-4xl font-bold text-white mt-2 mb-6 glow-text">
             Membangun produk digital yang bermakna.
           </h2>

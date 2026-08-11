@@ -23,7 +23,7 @@ export default function Skills() {
         viewport={{ once: true }}
         className="mb-12"
       >
-        <span className="text-sm font-medium text-blue-400">02 / Keahlian</span>
+        <span className="text-sm font-medium text-blue-400"></span>
         <h2 className="text-3xl sm:text-4xl font-bold text-white mt-2 glow-text">
           Tech Stack & Keahlian
         </h2>

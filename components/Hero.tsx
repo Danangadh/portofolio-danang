@@ -20,14 +20,14 @@ export default function Hero() {
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: 0.4 }}
-            className="text-sm font-medium text-blue-300 bg-blue-500/20 px-4 py-1.5 rounded-full border border-blue-500/30 backdrop-blur-sm"
+           
           >
-            Tersedia untuk proyek
+            
           </motion.span>
 
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
             Halo, saya <br />
-            <span className="bg-gradient-to-r from-blue-400 via-cyan-300 to-blue-500 bg-clip-text text-transparent glow-text">
+            <span className="bg-blue-400 via-cyan-300 to-blue-500 bg-clip-text text-transparent glow-text">
               Danang Ade Hidayat
             </span>
           </h1>
